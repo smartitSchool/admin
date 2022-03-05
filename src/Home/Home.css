@@ -1,4 +1,15 @@
-.input-form{
-    width: 100%;
+.table-box{
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
 }
 
+.table{
+    height: 400px;
+    overflow: auto;
+}
+
+
+.item-thumbnail{
+    width: 30px;
+}
